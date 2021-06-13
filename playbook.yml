@@ -1,4 +1,4 @@
-- hosts: server
+- hosts: myserver
   vars:
   - image: dendypradana/apache-docker-ansible
   tasks:
